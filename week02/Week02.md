@@ -37,7 +37,6 @@ Working in groups of 4, pick one of the below sensors. Hook it up and be prepare
 * [TMP36 Temperature Sensor](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor) (there are 3 of these, go wild)
 
 * [(PIRS) Motion Sensor](https://learn.sparkfun.com/tutorials/pir-motion-sensor-hookup-guide/all)   
-
 * [LV-MaxSensor - EZ1](https://www.maxbotix.com/Arduino-Ultrasonic-Sensors-085/) 
 
 Reading: 
