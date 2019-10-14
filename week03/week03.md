@@ -26,3 +26,10 @@ https://makezine.com/projects/dark-detecting-led/
 There is one change though, verses use a battery, we're just going to power our circuit with the Arduino 3V out. ∑œ
 
 Take a short video to submit of the working circuit. 
+
+---
+
+## Reading 
+
+* Read chapter 2 of Simon Penny's Making sense
+* Read chapter 3 of Norman's The Design of Everyday Things 
