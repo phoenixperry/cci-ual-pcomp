@@ -13,12 +13,16 @@ Take a short video to submit of the working circuit.
 2. Voltage Dividers 
 Hook up a potentometer. See last week's circuits if you don't remember how to do so. Using a multimeter, measure the change of voltage as you watch the knob change. This is for you. 
 
-No documentation required  but it's a fun thing to try out.
+No documentation required but it's a fun thing to try out.
 
-3. Making a dark detecting LED 
+3. Making a dark detecting LED (BREADBOARD ME!)
 Together, we are going to build this project to better understand transistors 
 https://makezine.com/projects/dark-detecting-led/
 
-There is one change though, verses use a battery, we're just going to power our circuit with the Arduino 3V out. 
+
+[Here's the datasheet for the phototransistor] 
+(https://www.avnet.com/shop/emea/products/everlight/pt333-3c-3074457345634369228?&r=EMEA&CMP=AVNET-EMEA-PPC-Google-All-English-AVE14-SKU-1699305114-66248026957-042019|mkwid|skycZlOwT_dc|pcrid|339939286074|pkw|pt333-3c|pmt|p|slid||prd||pgrid|66248026957|ptaid|kwd-14750612769)
+
+There is one change though, verses use a battery, we're just going to power our circuit with the Arduino 3V out. ∑œ
 
 Take a short video to submit of the working circuit. 
