@@ -28,7 +28,7 @@ There is one change though, verses use a battery, we're just going to power our 
 Take a short video to submit of the working circuit. 
 
 ---
-
+ 
 ## Reading 
 
 * Read chapter 2 of Simon Penny's Making sense
