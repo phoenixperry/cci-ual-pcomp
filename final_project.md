@@ -1,4 +1,4 @@
-##Final Project 
+## Final Project 
 50% of your total mark
 
 The Major Project must represent a conceptual exploration of the intellectual material presented in this course. Care about the why, the what and the how in that order. 
@@ -8,7 +8,7 @@ For next week make sure you fill out [the final project proposal form](https://f
 *You will present your ideas next week in class and get approval or notes then.*
 
 
-###You will be assessed on the criteria below. 
+### You will be assessed on the criteria below. 
 
 * Your project must be an original idea that explores an interesting relationship with the player/audience (30%)
  
