@@ -1,5 +1,5 @@
 ##Week 07
-Due Date: Optional and not marked 
+
 
 **Shift Registers and Multiplexing**
 
@@ -22,3 +22,11 @@ To see how this work in arduino, review the section on Bitwise Operators here:
 https://www.arduino.cc/reference/en/#structure
 
 When will you ever use this? It's really great for sending data over radio or BLE where you have a very limited amount of data. If you want to see an advanced example from one of my current projects in progress, check out the Thrum folder for more. This controls a haptic grid and I am switching the motors on and off via bitmasking. This code is a WORK IN PROGRESS and also mine. Please don't repost it. 
+
+##### content from the slides
+
+An addition resource as a lab if you want more detail 
+www.cs.uregina.ca/Links/class-info/207/Lab8/
+
+The Sparkfun video on shift registers 
+https://www.youtube.com/watch?v=6BLj9Ak2Djs 
