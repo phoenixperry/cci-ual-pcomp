@@ -1,5 +1,5 @@
 # Adafruit Feather nRF52840
-!(Adafruit Logo)[https://learn.adafruit.com/]
+!(Adafruit Logo)[https://www.adafruit.com/includes/templates/shop2019/images/adafruit-logo.png]
 
 ## SDK
 ### Drivers
