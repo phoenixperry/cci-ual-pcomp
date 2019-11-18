@@ -16,12 +16,16 @@
 
 ### Power Pins
 
+![](https://tva1.sinaimg.cn/large/006y8mN6gy1g92gbcd57cj31400u0hdu.jpg)
+
 - __3V__: used to supply 3.3V power to external sensors, breakouts or Feather Wings
 - __LIPO Input__ (Bat):  Voltage supply from the optional rechargeable cell. Can be connected via JST PH connector.
 - __VREG Enable__ (En): Can be set to GND to disable the 3.3V output. By default set to HIGH.
 - __USB Power__ (USB): Supplies voltage from USB (4.5-5.2V)
 
 ### Analog Inputs
+
+![](https://tva1.sinaimg.cn/large/006y8mN6gy1g92gbb6kw8j31400u0hdu.jpg)
 
 - 6 analog pins (A0–A5)
 - 2 ADC pins (AREF, VIVD)
@@ -49,6 +53,8 @@ Any GPIO pin can be configured as PWM.
 - For advanced debugging or to reprogram the board using a 1.27mm SWD cable
 
 ### LEDs 
+
+![](https://tva1.sinaimg.cn/large/006y8mN6gy1g92gba1wbtj31400u0u0x.jpg)
 
 There are 3 basic LEDs on the board
 
