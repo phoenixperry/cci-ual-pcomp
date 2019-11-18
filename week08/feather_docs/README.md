@@ -1,6 +1,8 @@
 # Adafruit Feather nRF52840
 !(Adafruit Logo)[https://learn.adafruit.com/]
 
+![Image](https://github.com/moritzsalla/adafruit-express-feather/blob/master/board.jpg?raw=true)
+
 - Bluetooth Low Energy and native USB support
 - 'All-in-one' Arduino-compatible + Bluetooth Low Energy with built in USB plus battery charging
 - Arduino IDE support
