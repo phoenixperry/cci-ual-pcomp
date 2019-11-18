@@ -2,7 +2,7 @@
 
 ## Use cases - what it's good for.
 
-![Image](https://github.com/moritzsalla/adafruit-express-feather/blob/master/board.jpg?raw=true)
+![Image](board.jpg)
 
 
 - Bluetooth Low Energy and native USB support
