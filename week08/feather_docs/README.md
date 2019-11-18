@@ -1,6 +1,9 @@
 # Adafruit Feather nRF52840
 
+## Use cases - what it's good for.
+
 ![Image](https://github.com/moritzsalla/adafruit-express-feather/blob/master/board.jpg?raw=true)
+
 
 - Bluetooth Low Energy and native USB support
 - 'All-in-one' Arduino-compatible + Bluetooth Low Energy with built in USB plus battery charging
