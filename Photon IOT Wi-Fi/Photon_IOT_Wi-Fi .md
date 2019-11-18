@@ -135,14 +135,6 @@ This is the web side of the app, and you can type in the code here. 👉
 
 Photon is a miniature Wi-Fi IoT device for creating connected projects and products for the Internet of Things. It's easy to use, powerful and connected to the cloud. Particles combine the powerful STM32 ARM Cortex M3 microcontroller with the BCM43362 Wi-Fi chip in a miniature thumbnail module called PØ (P-zero)
 
-## Particle's core philosophy:
-
-Help rapid IoT product development with a cloud-based hardware development platform.
-
-Help enable cloud connectivity from a single prototype to a high-volume finished product with a cloud platform.
-
-Help manage online hardware products
-
 ## Using cases:
 
 ![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/1.png)
@@ -200,6 +192,19 @@ If you got the led to glow, next lets upload the code to the arduino and control
 ![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/5.png)
 
 Now to upload the code you will need to visit particles web based IDE and paste in the below code and then select the photon from the list of devices on the left of your screen. And then give the new program a name and hit flash. You should see your photon blink pink indicating that the code is uploading on to the board. After uploading the reset and connect to the internet.
+
+## Particle's core philosophy:
+
+Help rapid IoT product development with a cloud-based hardware development platform.
+
+Help enable cloud connectivity from a single prototype to a high-volume finished product with a cloud platform.
+
+Help manage online hardware products
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/cat.gif)
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/99.jpeg)
+
 
 
 ## More examples from others
