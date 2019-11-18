@@ -1,5 +1,4 @@
 # Adafruit Feather nRF52840
-!(Adafruit Logo)[https://www.adafruit.com/includes/templates/shop2019/images/adafruit-logo.png]
 
 ![Image](https://github.com/moritzsalla/adafruit-express-feather/blob/master/board.jpg?raw=true)
 
