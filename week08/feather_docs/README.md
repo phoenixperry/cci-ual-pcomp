@@ -4,13 +4,13 @@ Physical Computing Week 8 w/ Phoenix Perry
 November 18, 2019
 
 By Msc class of 2020:
-Stuart Leitch
-Moritz Salla
-Yilin Zheng
-Anna Tsuda
-Harry Hallows
-Mark Kvetny
-Xiangsong Yang
+Stuart Leitch, 
+Moritz Salla, 
+Yilin Zheng, 
+Anna Tsuda, 
+Harry Hallows, 
+Mark Kvetny, 
+Xiangsong Yang, 
 Vino Chan
 
 ## Use cases - what it's good for.
