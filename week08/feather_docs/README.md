@@ -1,6 +1,8 @@
 # Adafruit Feather nRF52840
 Msc Creative Computing
+
 Physical Computing Week 8 w/ Phoenix Perry
+
 November 18, 2019
 
 By Msc class of 2020:
