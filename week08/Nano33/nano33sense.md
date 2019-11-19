@@ -41,7 +41,7 @@ If you see an error similar to the error below in your Arduino IDE, you may also
 C:\\Users\\username\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4/bin/arm-none-eabi-g++
 ```
 
-Head to the [GNU Compiler Collection (GCC)](https://gcc.gnu.org/) for more information. It's the sort of thing which will be specific to your machine and operating system, but a quick for __G++ Compiler Mac__ yeilded results on Aleksi's machine. If you see a compiler error in the Arduino IDE after having installed GCC, you may need to __re-install__ the nRF528x mbed core. To do this delete this folder `/Users/username/Library/Arduino15/packages/arduino` and then re-install the core above. You should now be ready to use the board!
+Head to the [GNU Compiler Collection (GCC)](https://gcc.gnu.org/) for more information. It's the sort of thing which will be specific to your machine and operating system, but a quick search for __G++ Compiler Mac__ yeilded results on Aleksi's machine. If you see a compiler error in the Arduino IDE after having installed GCC, you may need to __re-install__ the nRF528x mbed core. To do this delete this folder `/Users/username/Library/Arduino15/packages/arduino` and then re-install the core above. You should now be ready to use the board!
 
 ## Is it all working?
 
@@ -86,7 +86,7 @@ You can now upload the classic Arduino 'Hello World' Blink sketch found in `File
 
 ![Project Image](https://hackster.imgix.net/uploads/attachments/1012929/_bbQyIDflF5.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
 
-[This project](https://create.arduino.cc/projecthub/arichetta/air-drum-with-arduino-nano-33-iot-8e9d45?ref=platform&ref_id=424_trending___&offset=8) by Andrea Richetta demonstrates that with very little code, you can use the IMU built into the board and the USB to MIDI feature on the board (thanks to the ARM based chip, also available on atmega32u4 based boards) to appear as a MIDI peripheral over USB to a connected computer.
+[This project](https://create.arduino.cc/projecthub/arichetta/air-drum-with-arduino-nano-33-iot-8e9d45?ref=platform&ref_id=424_trending___&offset=8) by Andrea Richetta demonstrates that with very little code, you can use the IMU built into the board and the USB to MIDI feature on the board (thanks to the ARM based chip, also available on atmega32u4 based boards) to appear as a MIDI peripheral over USB to a connected computer. This project could easily be expanded to use the Bluetooth capabilities on the board and you're on your way to making a saleable product!
 
 ## Features
 
@@ -107,5 +107,9 @@ __Relative Humidity:__ The relative humidity sensor is a HTS221 which is capable
 ## __PLEASE NOTE:__
 
 The microcontroller on the Arduino NANO 33 BLE Sense runs at 3.3V, which means that __you must never apply more than 3.3V to its Digital and Analog pins.__ Care must be taken when connecting sensors and actuators to assure that this limit of 3.3V is never exceeded. __Connecting higher voltage signals, like the 5V commonly used with the other Arduino boards, will damage the Arduino NANO 33 BLE Sense.__
+
+## Furthur Reading
+
+Please see the [official Arduino NANO 33 BLE Sense guide](https://www.arduino.cc/en/Guide/NANO33BLESense) for more information.
 
 > This guide was written by Aleksi Halttunen and Josh Murr (Creative Coding MSc, 2019)
