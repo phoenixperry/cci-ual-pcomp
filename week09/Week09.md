@@ -1,6 +1,6 @@
 # Week 09 - Eagle 
 
-Eagle is a tool used for circuit board layout. It is not the only one. There is also [KiCad](http://www.kicad-pcb.org/), [DipTrace](https://diptrace.com/), and dozens of others.
+[Eagle](https://www.autodesk.co.uk/products/eagle/free-download)is a tool used for circuit board layout. It is not the only one. There is also [KiCad](http://www.kicad-pcb.org/), [DipTrace](https://diptrace.com/), and dozens of others.
 
 Why Eagle? 
 * easy to use 
