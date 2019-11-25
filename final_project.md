@@ -11,17 +11,17 @@ For next week make sure you fill out [the final project proposal form](https://f
 ### You will be assessed on the criteria below. 
 
 * Your project must be an original idea that explores an interesting relationship with the player/audience (30%)
- 
+
 ---
 	To get this 30% of the mark it must:
-
+	
 	* Use at least two INPUTS in any combination: two digital, two analogue, or one of each (no inputs = FAIL)
-
+	
 	* Use at least two OUTPUTS such as: an actuator of any type OR an on-screen display (no outputs = FAIL)
 	
 	* Be soldered to perf or strip board. (breadboards = Automatic FAIL)
 
---- 
+---
 
 * Have a suitable housing (up to 20% of mark)
 
@@ -31,8 +31,7 @@ For next week make sure you fill out [the final project proposal form](https://f
 
 * Be exhibited in class unless other arrangements are made ahead of time (20%)
 
-
----- 
+----
 #### Final presentation notes: 
 
 Prepare the following to share in class during the last lab of the term in the form of a presentation with slides. In the sides: 
