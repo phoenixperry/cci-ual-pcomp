@@ -15,6 +15,7 @@ Why KiCad?
 * lots of parts
 * takes an investment of time to use 
 * making your own parts is easier 
+* [a good tutorial](http://blog.oshpark.com/2019/10/16/getting-to-blinky-with-kicad-5/) 
 
 Why DipTrace?
 
