@@ -29,7 +29,4 @@ Take a short video to submit of the working circuit.
 
 ---
  
-## Reading 
-
-* Read chapter 2 of Simon Penny's Making sense
-* Read chapter 3 of Norman's The Design of Everyday Things 
+ 

@@ -47,5 +47,5 @@ Got time and money and want the best pro boards you can afford in mass? They eve
 
 ## Lab  
 
-Read Steps 2-7 of [Sparkfun's Eagle guide](https://www.sparkfun.com/EAGLE) and follow along to layout your first PCB. Zip and upload your eagle project and gerbers to your github clearly labeled week08. 
+Read Steps 2-7 of [Sparkfun's Eagle guide](https://www.sparkfun.com/EAGLE) and follow along to layout your first PCB. Put a jpg of your circuit and schematic in your Portfolio of Work
 

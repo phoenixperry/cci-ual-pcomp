@@ -1,7 +1,6 @@
 # Week 02 - Sensors, knobs, and Serial Data 
 
-*Class will Start with a review and reading discussion - Archeologies of Haptics & The Design of Everyday Things*
-
+ 
 *Lecture - See slides Week02.pdf* 
 ### Lab 00 - Leds in Serial and Parallel 
 
@@ -38,8 +37,5 @@ Working in groups of 4, pick one of the below sensors. Hook it up and be prepare
 
 * [(PIRS) Motion Sensor](https://learn.sparkfun.com/tutorials/pir-motion-sensor-hookup-guide/all)   
 * [LV-MaxSensor - EZ1](https://www.maxbotix.com/Arduino-Ultrasonic-Sensors-085/) 
-
-Reading: 
-Chapter 1 of Making Sense by Simon Penny 
-Chapter 2 of The Design of Everyday Things 
+ 
 
