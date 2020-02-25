@@ -1,6 +1,9 @@
+
+
 # Week 02 - Sensors, knobs, and Serial Data 
 
- 
+*Class will Start with a review and reading discussion - Archeologies of Haptics & The Design of Everyday Things*
+
 *Lecture - See slides Week02.pdf* 
 ### Lab 00 - Leds in Serial and Parallel 
 
@@ -35,7 +38,7 @@ Working in groups of 4, pick one of the below sensors. Hook it up and be prepare
 
 * [TMP36 Temperature Sensor](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor) (there are 3 of these, go wild)
 
-* [(PIRS) Motion Sensor](https://learn.sparkfun.com/tutorials/pir-motion-sensor-hookup-guide/all)   
-* [LV-MaxSensor - EZ1](https://www.maxbotix.com/Arduino-Ultrasonic-Sensors-085/) 
- 
+* [Sharp 2Y0A02](https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutorial/)  
+   
+
 
