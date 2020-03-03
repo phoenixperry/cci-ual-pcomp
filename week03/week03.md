@@ -15,9 +15,9 @@ Hook up a potentometer. See last week's circuits if you don't remember how to do
 
 No documentation required but it's a fun thing to try out.
 
-(for next week due to a part not arriving) 
 
-**Making a dark detecting LED (BREADBOARD ME!)**
+
+**Making a dark detecting LED (BREADBOARD ME!)** (for next week due to a part not arriving) 
 Together, we are going to build this project to better understand transistors 
 https://makezine.com/projects/dark-detecting-led/
 
